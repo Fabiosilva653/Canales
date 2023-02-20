@@ -1,28 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,24/7 | El Chapulín Colorado
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3542
-#EXTINF:-1 ,24/7 | The Big Bang Theory
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2931
-#EXTINF:-1 ,24/7 BOB ESPONJA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2946
-#EXTINF:-1 ,24/7 CABALLEROS DEL SODIACO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2941
-#EXTINF:-1 ,24/7 CAR | Un Show Mas
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3536
-#EXTINF:-1 ,24/7 EBS Kids EN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1108
-#EXTINF:-1 ,24/7 EL PRINCIPE DEL RAP
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2929
-#EXTINF:-1 ,24/7 MALCOLM
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2947
-#EXTINF:-1 ,24/7 MASINGERZ
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2942
-#EXTINF:-1 ,24/7 NARUTO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2939
-#EXTINF:-1 ,24/7 ROBOTECH
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2922
-#EXTINF:-1 ,24/7 SUPER CAMPEONES
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2943
 #EXTINF:-1 ,AR | beIN Sports 3
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3495
 #EXTINF:-1 ,AR | beIN Sports 6
@@ -1739,101 +1717,7 @@ http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1301
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3288
 #EXTINF:-1 ,VENEZUELA | VENEVISION PLUS
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3214
- Films
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/112.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 6
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/132.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 7
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/133.ts
-
-#EXTINF:-1,24/7 : Cine PopCorn 8
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-
-#EXTINF:-1,24/7 : El Avispon Verde
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/148.ts
-
-#EXTINF:-1,24/7 : El Chavo Del 8 A
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/129.ts
-
-#EXTINF:-1,24/7 : EL Gallo Claudio
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/139.ts
-
-#EXTINF:-1,24/7 : El Hombre de la Atlantida
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/142.ts
-
-#EXTINF:-1,24/7 : El Pulpo Manotas
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/118.ts
-
-#EXTINF:-1,24/7 : Hechizada
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/130.ts
-
-#EXTINF:-1,24/7 : Jonny Quest
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/145.ts
-
-#EXTINF:-1,24/7 : Kung Fu - Classic
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/149.ts
-
-#EXTINF:-1,24/7 : La Bruja Tonta
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/123.ts
-
-#EXTINF:-1,24/7 : La Casa de Mickey Mouse HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/114.ts
-
-#EXTINF:-1,24/7 : La Hormiga Atomica
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/122.ts
-
-#EXTINF:-1,24/7 : La Pantera Rosa 1964
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/147.ts
-
-#EXTINF:-1,24/7 : Lindo Pulgoso
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/124.ts
-
-#EXTINF:-1,24/7 : Looney Toons V1
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/138.ts
-
-#EXTINF:-1,24/7 : Los Autos Locos
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/117.ts
-
-#EXTINF:-1,24/7 : Los Osos Montaneses
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/144.ts
-
-#EXTINF:-1,24/7 : Los Picapiedras
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/119.ts
-
-#EXTINF:-1,24/7 : Mi Bella Genio
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/128.ts
-
-#EXTINF:-1,24/7 : PatoAventura HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/115.ts
-
-#EXTINF:-1,24/7 : Pixie & Dixie
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/125.ts
-
+ 
 #EXTINF:-1,24/7 : Replay A
 #EXTVLCOPT:http-user-agent=Micros0ft2.0.1
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/136.ts
@@ -3403,61 +3287,6 @@ http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/158.ts
 #EXTVLCOPT:http-user-agent=Micros0ft2.0.1
 http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/63.ts
 
-
-#EXTINF:-1,XXX : Babes Channel WJJ HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/510.ts
-
-#EXTINF:-1,XXX : Brazzers HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/506.ts
-
-#EXTINF:-1,XXX : Casting Porn Channel WJJ HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/512.ts
-
-#EXTINF:-1,XXX : Fap TV Lesbian HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/507.ts
-
-#EXTINF:-1,XXX : Fap TV Parady HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/508.ts
-
-#EXTINF:-1,XXX : Nubiles Porn Channel WJJ HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/516.ts
-
-#EXTINF:-1,XXX : Penthouse Gold HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/504.ts
-
-#EXTINF:-1,XXX : PlayBoy Caribe HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/503.ts
-
-#EXTINF:-1,XXX : Playboy TV HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/505.ts
-
-#EXTINF:-1,XXX : Reality King WJJ HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/513.ts
-
-#EXTINF:-1,XXX : Sexmex WJJ HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/511.ts
-
-#EXTINF:-1,XXX : Tushy Porn WJJ HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/514.ts
-
-#EXTINF:-1,XXX : Playboy Plus HD
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/509.ts
-
-#EXTINF:-1,XXX : Venus TV
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/515.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
